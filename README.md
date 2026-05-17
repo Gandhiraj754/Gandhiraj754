@@ -17,67 +17,65 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## About Me
+## 👨‍🚀 About Me: The Engineering Focus
 
-I am a final-year B.Tech student in Data Science and Artificial Intelligence at IIIT Dharwad. I specialize in building end-to-end applications, ranging from serverless cloud infrastructures to AI-powered analytics pipelines. My focus is on writing clean, efficient code and architecting systems that scale.
+> **Final-year B.Tech in Data Science & Artificial Intelligence @ IIIT Dharwad.**
+> 
+> I specialize in building robust, end-to-end applications. If my GitHub commit graph seems quiet, it is because my time is spent deep in complex, offline architecture—researching satellite data for crop yields, training machine learning models, and writing highly optimized C/C++ systems. 
+>
+> My ultimate focus: **Writing clean, efficient code and architecting backend systems that scale.**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## Technical Arsenal
+## ⚡ Technical Arsenal
 
 <div align="center">
-  <h3>Programming Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=10" />
-  </a>
-
-  <h3>Web Technologies & Frameworks</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,streamlit&perline=10" />
-  </a>
-
-  <h3>Databases & Cloud Architecture</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,firebase&perline=10" />
-  </a>
-
-  <h3>Tools, Version Control & Analytics</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,aws,firebase,git,github,vscode,docker,linux,postman&perline=10" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B_Engineering-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Graph_Models-00FFCC?style=for-the-badge&logo=graphql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## Featured Engineering Projects
+## 🚀 Featured Engineering Projects
 
-| Project | Tech Stack | Impact |
-| :--- | :--- | :--- |
-| **Crop Yield Forecasting** | `Python`, `NISAR SAR`, `Optics` | Synergistic use of satellite data for high-accuracy yield modeling. |
-| **Placement Analyzer** | `Python`, `GPT`, `Streamlit`, `Graph` | AI-powered ATS system utilizing graph-distilled embeddings. |
-| **Serverless Product App** | `AWS Lambda`, `React`, `Python` | Cloud-based product lifecycle management with REST APIs. |
-| **Sports Sphere** | `Node.js`, `Firebase`, `JavaScript` | Real-time scalable sports venue booking and event hosting. |
+### 🛰️ Synergistic Crop Yield Forecasting
+> **Impact:** Synergistic use of NISAR L-Band SAR and Optical Satellite Data for high-accuracy yield modeling. Handled massive datasets to generate actionable agricultural insights.
+> <br>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=flat-square&logo=jupyter&logoColor=white" />
+
+### 🧠 AI-Powered Placement Analyzer
+> **Impact:** Developed an ATS matching system utilizing graph-distilled embeddings and GPT-based structured skill extraction. Implemented CONFIT Stage-4 architecture.
+> <br>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+### ☁️ Serverless Product Lifecycle App
+> **Impact:** Architected a fully serverless cloud-based product lifecycle management system, leveraging secure REST APIs and real-time React frontend integration.
+> <br>
+> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+### 🏟️ Sports Sphere Booking Platform
+> **Impact:** Built a real-time, scalable sports venue booking platform featuring multi-device synchronization and secure role-based access control.
+> <br>
+> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## GitHub Analytics
+## 📈 Development Telemetry
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gandhiraj754&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gandhiraj754&theme=tokyo-night&hide_border=true&bg_color=0b0b1a&color=00ffcc" width="100%" />
 </div>
+
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gandhiraj754&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b1a" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gandhiraj754&theme=tokyonight&hide_border=true&background=0b0b1a" height="192px" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gandhiraj754&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b1a" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gandhiraj754&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b1a&title_color=00ffcc" width="48%" />
 </div>
 
 <br>
