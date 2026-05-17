@@ -1,23 +1,12 @@
-### 🌌 Your New Profile README (*Project Hail Mary* Theme)
-
-To use this, create a new repository named exactly `Gandhiraj754` and paste this into its `README.md`. It includes animated SVG typing effects, GitHub stat cards, and the Ryland Grace/Rocky partnership theme. 
-
-```markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b1a&height=250&section=header&text=%22Amaze!%20Amaze!%20Amaze!%22&fontSize=50&fontColor=00ffcc&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b1a&height=250&section=header&text=Commander's%20Log&fontSize=50&fontColor=00ffcc&animation=twinkling" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Ryland+Grace:+%22I'm+an+engineer.%22;Rocky:+%22Question%3F+You+code%3F%22;Dhanush:+%22Yes,+C%2B%2B,+Python,+and+Data+Science.%22;Rocky:+%22Good.+Fist+my+bump!%22" alt="Typing SVG" />
-</div>
+## 👨‍🚀 Mission Overview
 
-## 👨‍🚀 Commander's Log
-
-Greetings. I am **Dhanush Sai Gandhiraj Chinta**, an engineer specializing in Data Science, Artificial Intelligence, and scalable backend architectures. Much like humanity's desperate mission to Tau Ceti, I believe in solving complex, high-stakes problems with rigorous science, C/C++ efficiency, and the right algorithms. 
+Greetings. I am **Dhanush Sai Gandhiraj Chinta**, an engineer specializing in Data Science, Artificial Intelligence, and scalable backend architectures. Much like a deep-space exploratory mission, I believe in solving complex, high-stakes problems with rigorous science, C/C++ efficiency, and the right algorithms. 
 
 Currently navigating the final stages of my B.Tech in Data Science and AI at IIIT Dharwad, I've spent my time building serverless ecosystems, structuring massive academic datasets, and forecasting crop yields using satellite data.
-
-When I face a complex bug, I remember the golden rule of engineering: **"Do the math. Solve the problem."**
 
 ### 🛠️ The Astrophage Containment Toolkit (My Stack)
 
@@ -31,9 +20,9 @@ When I face a complex bug, I remember the golden rule of engineering: **"Do the 
 - **Data & AI:** Machine Learning, Data Analytics, Graph Models, GPT Integrations
 - **Web & Cloud:** Node.js, React, AWS Lambda, Serverless Architectures
 
-### 🎼 "🎵 *You watch my back, I watch yours.* 🎵" - Featured Missions
+### 🌌 Project Eridian - Featured Missions
 
-| Project Eridian | Description | Status |
+| Objective | Description | Status |
 | :--- | :--- | :--- |
 | **🛰️ Crop Yield Forecasting** | Synergistic use of NISAR L-Band SAR & Optical Satellite Data. | *Mission Accomplished* |
 | **🧠 Placement Analyzer** | AI-powered ATS matching system using graph-distilled embeddings. | *Deployed* |
@@ -49,8 +38,7 @@ When I face a complex bug, I remember the golden rule of engineering: **"Do the 
 ---
 
 <div align="center">
-  <i>"Evolution can be incredibly clever. And also really, really lazy."</i> <br>
-  <b>Write efficient code.</b><br><br>
+  <b>"Do the math. Solve the problem."</b><br><br>
   <a href="https://linkedin.com/in/gandhi-raj-chinta">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
