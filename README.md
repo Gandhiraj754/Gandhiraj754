@@ -17,13 +17,20 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 👨‍🚀 About Me: The Engineering Focus
+## 👨‍🚀 About Me: Systematic Problem Solving & Architecture
 
-> **Final-year B.Tech in Data Science & Artificial Intelligence @ IIIT Dharwad.**
-> 
-> I specialize in building robust, end-to-end applications. If my GitHub commit graph seems quiet, it is because my time is spent deep in complex, offline architecture—researching satellite data for crop yields, training machine learning models, and writing highly optimized C/C++ systems. 
+> **Analytical | Curious | Systems-Oriented**
 >
-> My ultimate focus: **Writing clean, efficient code and architecting backend systems that scale.**
+> Final-year B.Tech in Data Science & Artificial Intelligence @ IIIT Dharwad.
+> 
+> I approach software engineering as a series of logical puzzles—breaking down unstructured problems and architecting them into highly efficient systems. If my GitHub commit graph seems quiet, it is because my time is spent deep in complex, offline architecture.
+>
+> **Core Engineering Execution:**
+> * **Data & AI Pipelines:** Scraping and clustering large-scale datasets (10,000+ records) and training machine learning models for strategic insights.
+> * **System Architecture:** Writing highly optimized C/C++ systems and deploying serverless cloud applications using AWS Lambda.
+> * **Advanced Integrations:** Building applied AI projects utilizing GPT models and graph-based embeddings.
+>
+> Backed by a strong foundation in Competitive Programming and Data Structures, I operate across the stack to turn raw data into measurable impact.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
