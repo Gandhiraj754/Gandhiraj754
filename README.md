@@ -75,10 +75,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gandhiraj754&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b1a&title_color=00ffcc" width="48%" />
-</div>
-
-<br>
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gandhiraj754&label=Profile%20Views&color=00ffcc&style=for-the-badge" alt="Profile Views" />
 </div>
