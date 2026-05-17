@@ -20,12 +20,19 @@
 
 ---
 
-##  टर्मिनल / Terminal: Current_Workspace
+## 👨‍💻 System.Profile()
 
-```bash
-gandhiraj@iiit-dharwad:~$ cat current_status.txt
-[>] Status: Final Year B.Tech DSAI | Ex-AI Intern @ Rubixe
-[>] Focus:  Writing highly optimized C/C++ systems & deploying ML models.
-[>] Task 1: Synergistic crop yield forecasting using NISAR L-Band SAR.
-[>] Task 2: Scaling serverless product architectures on AWS Lambda.
-[>] Action: Actively seeking full-time software engineering roles.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Dhanush Sai Gandhiraj Chinta"
+        self.education = "B.Tech in Data Science & AI @ IIIT Dharwad"
+        self.experience = "Ex-AI Intern @ Rubixe"
+        self.focus_areas = [
+            "C/C++ Core Engineering & System Design",
+            "Machine Learning Models & Data Pipelines",
+            "Serverless Cloud Architectures"
+        ]
+
+    def get_current_objective(self):
+        return "Actively seeking full-time software engineering roles where I can architect scalable backend systems and deploy data-driven solutions."
