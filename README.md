@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FjMzI5OTI4NWMxNzg4Yzg2ZDU4MmRiNmY5ZjI1ZjYxNmYxYjBmNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7aD2saalEvTehRO0/giphy.gif" width="220" alt="Floating Astronaut" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=150&section=header&text=Dhanush%20Sai%20Gandhiraj%20Chinta&fontSize=40&fontColor=ffffff&animation=twinkling" />
   
-  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Dhanush+Sai+Gandhiraj+Chinta;Data+Science+%26+Artificial+Intelligence;Prioritizing+C%2B%2B+%26+Scalable+Architecture;Transforming+Complex+Data+into+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=B.Tech+Data+Science+%26+Artificial+Intelligence;Specializing+in+C%2FC%2B%2B+%26+Backend+Architecture;Architecting+Scalable+Data-Driven+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,22 +13,19 @@
   <a href="mailto:gandhiraj9609@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/Gandhiraj754">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
-## System.Profile()
+##  टर्मिनल / Terminal: Current_Workspace
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Dhanush Sai Gandhiraj Chinta"
-        self.education = "B.Tech in Data Science & AI @ IIIT Dharwad"
-        self.focus_areas = [
-            "C/C++ Core Engineering",
-            "Machine Learning Models",
-            "Serverless Architectures"
-        ]
-
-    def get_current_status(self):
-        return "Architecting scalable systems and researching data-driven solutions."
+```bash
+gandhiraj@iiit-dharwad:~$ cat current_status.txt
+[>] Status: Final Year B.Tech DSAI | Ex-AI Intern @ Rubixe
+[>] Focus:  Writing highly optimized C/C++ systems & deploying ML models.
+[>] Task 1: Synergistic crop yield forecasting using NISAR L-Band SAR.
+[>] Task 2: Scaling serverless product architectures on AWS Lambda.
+[>] Action: Actively seeking full-time software engineering roles.
